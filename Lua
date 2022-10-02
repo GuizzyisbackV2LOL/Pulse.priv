@@ -1,4 +1,4 @@
--- This file was generated using Luraph Obfuscator v13.5.6
+-- This file was generated using Guiz obfuscator  v200
 -- CREDS TO fed#0004 for making the script, ! prime#9934 for being there and also helping with the script, Guizzy.#0372 for obfuscation/whitelist system and loadstring and etc. 
 -- sharing the script without these creds is considered stealing.
 -- showcase https://streamable.com/hg8j00
